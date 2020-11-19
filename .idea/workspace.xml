@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d31c0a-5b95-4f7b-9c98-bd0811bc55ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables.java" afterDir="false" />
+    <list default="true" id="41d31c0a-5b95-4f7b-9c98-bd0811bc55ee" name="Default Changelist" comment="String Data Type">
+      <change afterPath="$PROJECT_DIR$/src/StringDataType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +55,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.DataTypesAndVariables">
+  <component name="RunManager" selected="Application.StringDataType">
     <configuration name="DataTypesAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables" />
       <module name="java-101" />
@@ -48,6 +65,13 @@
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="java-101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDataType" />
       <module name="java-101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringDataType" />
         <item itemvalue="Application.DataTypesAndVariables" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -82,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605788235878</updated>
       <workItem from="1605788237850" duration="1290000" />
-      <workItem from="1605789777228" duration="934000" />
+      <workItem from="1605789777228" duration="4471000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605788571063</created>
@@ -91,41 +116,69 @@
       <option name="project" value="LOCAL" />
       <updated>1605788571063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Data Types And Variables">
+      <created>1605790898653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605790898653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Data Types And Variables" />
+    <MESSAGE value="String Data Type" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Data Type" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="107" key="CommitChangelistDialog2" timestamp="1605788570947">
+    <state x="507" y="217" key="#Inspections" timestamp="1605795446287">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="450" y="107" key="CommitChangelistDialog2/0.23.1792.1031@0.23.1792.1031" timestamp="1605788570947" />
-    <state x="112" y="143" width="1522" height="777" key="DiffContextDialog" timestamp="1605789104466">
+    <state x="507" y="217" key="#Inspections/0.23.1792.1031@0.23.1792.1031" timestamp="1605795446287" />
+    <state x="686" y="254" key="#com.intellij.ide.util.MemberChooser" timestamp="1605794521418">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="112" y="143" width="1522" height="777" key="DiffContextDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1605789104466" />
-    <state width="1680" height="264" key="GridCell.Tab.0.bottom" timestamp="1605790450570">
+    <state x="686" y="254" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1605794521418" />
+    <state x="450" y="107" key="CommitChangelistDialog2" timestamp="1605796031102">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1680" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1605790450570" />
-    <state width="1680" height="264" key="GridCell.Tab.0.center" timestamp="1605790450569">
+    <state x="450" y="107" key="CommitChangelistDialog2/0.23.1792.1031@0.23.1792.1031" timestamp="1605796031102" />
+    <state x="112" y="143" width="1522" height="777" key="DiffContextDialog" timestamp="1605792774888">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1680" height="264" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1605790450569" />
-    <state width="1680" height="264" key="GridCell.Tab.0.left" timestamp="1605790450568">
+    <state x="112" y="143" width="1522" height="777" key="DiffContextDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1605792774888" />
+    <state width="1680" height="264" key="GridCell.Tab.0.bottom" timestamp="1605796091248">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1680" height="264" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1605790450568" />
-    <state width="1680" height="264" key="GridCell.Tab.0.right" timestamp="1605790450569">
+    <state width="1680" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1605796091248" />
+    <state width="1680" height="264" key="GridCell.Tab.0.center" timestamp="1605796091247">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1680" height="264" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1605790450569" />
+    <state width="1680" height="264" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1605796091247" />
+    <state width="1680" height="264" key="GridCell.Tab.0.left" timestamp="1605796091246">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1680" height="264" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1605796091246" />
+    <state width="1680" height="264" key="GridCell.Tab.0.right" timestamp="1605796091247">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1680" height="264" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1605796091247" />
     <state x="688" y="241" key="RollbackChangesDialog" timestamp="1605788514107">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
@@ -134,9 +187,9 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="374" y="170" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1605790088703" />
-    <state x="473" y="271" key="Vcs.Push.Dialog.v2" timestamp="1605788638388">
+    <state x="473" y="271" key="Vcs.Push.Dialog.v2" timestamp="1605790904916">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="473" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1605788638388" />
+    <state x="473" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1605790904916" />
   </component>
 </project>
